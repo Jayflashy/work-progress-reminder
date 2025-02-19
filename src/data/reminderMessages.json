@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "🔔 Hey team! Time for your daily updates:\n- What did you accomplish today?\n- What's next on your plate?\n- Any blockers?\n\nDon't forget to push your code! 🚀"
+    },
+    {
+      "id": 2,
+      "message": "📝 Daily Standup Time!\nPlease share:\n- Today's achievements\n- Upcoming tasks\n- Challenges faced\n\nRemember to commit your changes! 💻"
+    },
+    {
+      "id": 3,
+      "message": "⏰ Update Time!\n\nLet's hear about:\n- Your progress today\n- Plans for tomorrow\n- Any help needed?\n\nKeep that code flowing!"
+    },
+    {
+      "id": 4,
+      "message": "🚨 Progress Check-in!\n- What milestones did you hit today?\n- What’s your focus for tomorrow?\n- Anything blocking your progress?\n\nDon't forget to sync your repo! 🌐"
+    },
+    {
+      "id": 5,
+      "message": "📢 Team Update Time!\n- Share what you’ve completed today.\n- What are your next tasks?\n- Any challenges or blockers?\n\nPush your latest commits to keep everything in sync! 🎯"
+    },
+    {
+      "id": 6,
+      "message": "📆 Quick Daily Progress Update!\n- What have you finished today?\n- What’s on your list for tomorrow?\n- Do you need any support?\n\nRemember to commit your changes and review PRs! ✅"
+    },
+    {
+      "id": 7,
+      "message": "🚀 Let's Review Today's Progress!\n- Achievements for the day?\n- What’s next on your plate?\n- Any obstacles in your way?\n\nMake sure to push your updates and share your progress! 💪"
+    },
+    {
+      "id": 8,
+      "message": "🕒 Time for Your Update!\n- What did you work on today?\n- What are your goals for tomorrow?\n- Do you have any blockers?\n\nDon’t forget to push your changes and tag any relevant tasks! 📊"
+    }
+  ]
+}
